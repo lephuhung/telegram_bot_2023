@@ -1,0 +1,91 @@
+{
+    "code": 0,
+    "sub_code": 0,
+    "success": true,
+    "message": "Success",
+    "data": {
+        "id": "1734223188013704670",
+        "user_key": "buyer_84989755968",
+        "user_type": "buyer",
+        "user_id": "84989755968",
+        "username": "84989755968",
+        "fullname": "Hà Anh",
+        "status_id": 3,
+        "position_name": "Khách hàng",
+        "province_id": 848,
+        "properties": [
+            {
+                "size": "small",
+                "type": "BLUE_MARBLE",
+                "icon": "https://cache.giaohangtietkiem.vn/image/show/26f66069-a86c-45fd-b712-1337cace6d4d/46d0291b-e4d2-4676-a5bb-e8b7ad5c6d03.png",
+                "name": "Bi xanh"
+            }
+        ],
+        "direct": {
+            "channel_id": "3926727013434589292",
+            "channel_name": "Hà Anh",
+            "channel_mode": "buyer_buyer",
+            "channel_type": "direct",
+            "gr": 42,
+            "created": "2024-04-21T14:19:28.000Z",
+            "count_member": 2,
+            "src": "buyer_84973289934/buyer_84989755968",
+            "gid": "3926727013434589292",
+            "is_favorite": 0,
+            "favorite": {
+                "id": 0,
+                "is_draft": 0,
+                "is_fav": 0,
+                "priority": 4
+            },
+            "is_notification": 1,
+            "role": 1,
+            "count_message_unread": 0,
+            "sub_title": "Khách hàng",
+            "total_member_active": 1,
+            "total_media": 0,
+            "is_show_share_link": 0,
+            "author": {
+                "id": "3928771514413103599",
+                "user_key": "buyer_84973289934",
+                "user_type": "buyer",
+                "user_id": "84973289934",
+                "username": "84973289934",
+                "fullname": "Lê Phú Hưng",
+                "avatar": "https://cache.giaohangtietkiem.vn/d/8943870260237bbfcce877571dc78be8.jpg",
+                "status_id": 3
+            },
+            "partner": {
+                "id": "1734223188013704670",
+                "user_key": "buyer_84989755968",
+                "user_type": "buyer",
+                "user_id": "84989755968",
+                "username": "84989755968",
+                "fullname": "Hà Anh",
+                "status_id": 3,
+                "position_name": "Khách hàng",
+                "province_id": 848,
+                "properties": [
+                    {
+                        "size": "small",
+                        "type": "BLUE_MARBLE",
+                        "icon": "https://cache.giaohangtietkiem.vn/image/show/26f66069-a86c-45fd-b712-1337cace6d4d/46d0291b-e4d2-4676-a5bb-e8b7ad5c6d03.png",
+                        "name": "Bi xanh"
+                    }
+                ]
+            },
+            "tags": [],
+            "permission": {
+                "admin": 1,
+                "call": 0,
+                "channel": 1,
+                "member": 1,
+                "message": 1,
+                "share_link": 1
+            }
+        }
+    },
+    "nonce": "QOBTSQDJMTXU",
+    "timestamp": "2024-04-21T14:40:20.208Z",
+    "host": "chat-backend-776f5569bd-292v5"
+}
